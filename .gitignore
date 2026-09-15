@@ -12,6 +12,7 @@
 *.gzip
 *.tar.gz
 *.out
+*.nbconvert.ipynb
 /**/tutorial/test_files/
 /**/tutorial/cli_tutorial/
 /**/tutorials/tutorial_data/papyrus/
@@ -19,6 +20,9 @@
 /**/tutorials/tutorial_data/AR_LIGANDS.tsv
 /**/tutorials/tutorial_data/AR_LIGANDS_pivot.tsv
 /**/tutorials/tutorial_output
+
+# Mac stuff
+.DS_Store
 
 ### Python template
 # Byte-compiled / optimized / DLL files
